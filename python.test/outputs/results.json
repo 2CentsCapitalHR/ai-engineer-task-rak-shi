@@ -1,0 +1,43 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 5,
+  "required_documents": 5,
+  "missing_document": null,
+  "issues_found": [
+    {
+      "document": "Resolution",
+      "section": "Unknown",
+      "issue": "Missing signatory section",
+      "severity": "Medium",
+      "suggestion": "Add signatory block with name, designation, and date"
+    },
+    {
+      "document": "MoA",
+      "section": "N/A",
+      "issue": "No issues detected",
+      "severity": "Info",
+      "suggestion": "Document meets basic checks"
+    },
+    {
+      "document": "Register",
+      "section": "N/A",
+      "issue": "No issues detected",
+      "severity": "Info",
+      "suggestion": "Document meets basic checks"
+    },
+    {
+      "document": "UBO Form",
+      "section": "N/A",
+      "issue": "No issues detected",
+      "severity": "Info",
+      "suggestion": "Document meets basic checks"
+    },
+    {
+      "document": "AoA",
+      "section": "Unknown",
+      "issue": "Incorrect jurisdiction reference",
+      "severity": "High",
+      "suggestion": "Change to ADGM Courts as per ADGM Companies Regulations 2020"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+streamlit
+python-docx
+langchain
+llama-index
+openai
